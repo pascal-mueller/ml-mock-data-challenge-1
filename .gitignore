@@ -1,4 +1,5 @@
 *.hdf
+contributions/*.png
 __pycache__/
 segments.csv
 
